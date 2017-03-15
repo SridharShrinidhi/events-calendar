@@ -1,9 +1,13 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 table {
   border: 1px solid #ccc;
+}
+
+caption {
+  font-style: italic;
 }
 
 td,
@@ -17,7 +21,7 @@ td {
 
 p {
   border: 1px solid #666;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .red {
